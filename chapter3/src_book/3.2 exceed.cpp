@@ -1,7 +1,7 @@
 #include <iostream>
 #include <climits>
 
-int main(void)
+int main()
 {
 	using namespace std;
 
