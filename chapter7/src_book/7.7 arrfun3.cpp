@@ -8,7 +8,7 @@ int fill_array(double arr[], int limit);
 void show_array(const double arr[], int n);
 void revalue(double r, double arr[], int n);
 
-int main(void)
+int main()
 {
 	double properties[Max];
 

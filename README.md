@@ -4,6 +4,5 @@
 
 
 本文是在Visual Studio Code编辑器下进行学习展开的。
-bin存放VsCode编译生成的执行文件。
 src存放章节习题答案
-src_book存放书中案例源码。
+src_book存放书中案例源码及思考题。
